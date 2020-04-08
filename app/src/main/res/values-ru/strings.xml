@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Java android приложение</string>
+    <string name="student_card_photo_description">Фото студента</string>
+    <string name="sign_up_btn">Зарегистрироваться</string>
+    <string name="sing_in_btn">Войти</string>
+    <string name="login_hint">Имя пользователя</string>
+    <string name="password_hint">Пароль</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Java android app</string>
+    <string name="student_card_photo_description">Student\'s photo</string>
+    <string name="sign_up_btn">Sign up</string>
+    <string name="sing_in_btn">Sign in</string>
+    <string name="login_hint">Username</string>
+    <string name="password_hint">Password</string>
+</resources>
